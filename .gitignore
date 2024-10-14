@@ -1,0 +1,8 @@
+/indic_tts_env
+/models/v1/kn/fastpitch/best_model.pth
+/models/v1/kn/fastpitch/config.json
+/models/v1/kn/fastpitch/speakers.pth
+/models/v1/kn/hifigan/best_model.pth
+/models/v1/kn/hifigan/config.json
+/output.wav
+.DS_Store
