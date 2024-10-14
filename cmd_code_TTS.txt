@@ -1,0 +1,7 @@
+    tts --text "ಕಂಪ್ಯೂಟರ್ ಎನ್ನುವುದು ಮಾಹಿತಿಯನ್ನು ಸಂಸ್ಕರಿಸುವ ಮತ್ತು ಸಂಗ್ರಹಿಸುವ ಮತ್ತು ವಿವಿಧ ಕಾರ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸುವ ಯಂತ್ರವಾಗಿದೆ ?" \
+    --config_path /Users/aditya.narayan/Desktop/speechToSpeech/indic-tts/models/v1/kn/fastpitch/config.json \
+    --model_path /Users/aditya.narayan/Desktop/speechToSpeech/indic-tts/models/v1/kn/fastpitch/best_model.pth \
+    --out_path /Users/aditya.narayan/Desktop/speechToSpeech/indic-tts/output.wav \
+    --vocoder_path /Users/aditya.narayan/Desktop/speechToSpeech/indic-tts/models/v1/kn/hifigan/best_model.pth \
+    --vocoder_config_path /Users/aditya.narayan/Desktop/speechToSpeech/indic-tts/models/v1/kn/hifigan/config.json \
+    --speaker_idx "female"
